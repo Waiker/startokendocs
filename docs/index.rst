@@ -20,7 +20,5 @@ Contents:
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`Контакты технической поддержки`
+* :ref:`contacts`
 
