@@ -1,7 +1,6 @@
-Authors
+Авторы 
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Waik
 
 
