@@ -1,0 +1,41 @@
+Часто задаваемые вопросы
+========
+
+$project will solve your problem of where to start with documentation,
+by providing a basic explanation of how to do it easily.
+
+Look how easy it is to use:
+
+    import project
+    # Get your stuff done
+    project.do_stuff()
+
+Я хочу чтобы программа включалась автоматически с загрузкой ОС
+--------
+
+- Be awesome
+- Make things faster
+
+Я по ошибке отключил уведомление, как его вернуть для определенного токена?
+------------
+
+Install $project by running:
+
+    install project
+
+Как мне посмотреть лог файл подключений
+----------
+
+- Issue Tracker: github.com/$project/$project/issues
+- Source Code: github.com/$project/$project
+
+Как восстановить номер носителя, когда случайно закрыл окно?
+-------
+
+If you are having issues, please let us know.
+We have a mailing list located at: project@google-groups.com
+
+Одновременно подключенно несколько носителей, как они будут обработаны программой?
+-------
+
+The project is licensed under the BSD license.
