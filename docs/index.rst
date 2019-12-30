@@ -20,5 +20,5 @@ Contents:
 ==================
 
 * :ref:`genindex`
-* :ref:`contacts`
+* :ref:`support-contacts`
 
