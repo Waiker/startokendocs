@@ -1,5 +1,5 @@
 .. _startoken.skzi.me: https://startoken.skzi.me
-.. |иконка| image:: static_/favicon-16x16.png
+.. |иконка| image:: static_/favicon-32x32.png
             :height: 16px
             :width: 16 px
 
