@@ -1,20 +1,15 @@
 Руководство администратора
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+.. toctree::
+   :maxdepth: 2
+   :glob:
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+   *
 
 Установка и настройка агентов
 --------
-
-- Be awesome
-- Make things faster
+Программа не требует инсталяции, достаточно просто запустить исполняемый файл.
 
 Системные требования к рабочей станции
 ------------
